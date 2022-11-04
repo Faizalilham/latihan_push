@@ -7,6 +7,7 @@ fun main(args: Array<String>) {
     var A=19
     var B=29
     var C=A*B
+    val g=123
 
     println("tutor pushhhhh")
 
@@ -14,6 +15,7 @@ fun main(args: Array<String>) {
 
     val namaDepan = " Nizar "
     val namaBelakang = " Arya Pratama "
+    var print ="push"
 
 
 
