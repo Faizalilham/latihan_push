@@ -8,5 +8,7 @@ fun main(args: Array<String>) {
     var B=29
     var C=A*B
 
+    println("tutor pushhhhh")
+
 
 }
