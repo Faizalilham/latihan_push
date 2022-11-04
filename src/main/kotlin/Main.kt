@@ -12,5 +12,9 @@ fun main(args: Array<String>) {
 
     println("push github muhit nawawi")
 
+    val namaDepan = " Nizar "
+    val namaBelakang = " Arya Pratama "
+
+
 
 }
